@@ -1,5 +1,5 @@
 {
-  "name": "@leng/test",
+  "name": "@lengz/test",
   "version": "1.0.0",
   "description": "npm publish test project",
   "main": "lib/index.js",
